@@ -114,7 +114,7 @@ $cols = 6;
 <head>
 </head>
 <body>
-	<form action="d1 toets" method="get">
+	<form action="d1 toets extra" method="get">
 		<input type="text" name="width" placeholder="width">
 		<input type="text" name="height" placeholder="height">
 		<input type="submit"  name="submit" value="Submit" />
@@ -124,11 +124,12 @@ $cols = 6;
 </html>
 
 <?php
-	$height = width;
+	/*$height = width;
 	$width = height;
 
 	$calcNum = $height + $width;
 
 	echo "The calculated area of"."$_GET['width']"." "."and"." "."$_GET['height']"."is".$calcNum;
 	//echo "The$_GET['width'].$_GET['height'];
+	*/
 ?>
