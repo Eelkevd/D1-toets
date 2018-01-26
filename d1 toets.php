@@ -114,7 +114,7 @@ $cols = 6;
 <head>
 </head>
 <body>
-	<form action="d1 toets extra" method="get">
+	<form action="d1 toets extra.php" method="get">
 		<input type="text" name="width" placeholder="width">
 		<input type="text" name="height" placeholder="height">
 		<input type="submit"  name="submit" value="Submit" />
